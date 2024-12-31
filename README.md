@@ -47,12 +47,15 @@
 
 ## Output:
 
-![image](https://github.com/Ashera2004/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/blob/main/Screenshot%202024-12-19%20105613.png)
+![geneva_wheel_fusion](https://github.com/user-attachments/assets/22d7c15b-dd30-4673-aeb5-0aaeff3db08a)
 
-![image](https://github.com/Ashera2004/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/blob/main/Screenshot%202024-12-19%20105627.png)
+
+![geneva_wheel_cura](https://github.com/user-attachments/assets/8cedcf32-4af4-4e57-b6fc-9caa40f19fc1)
+
+
 
 ### Name: A S Siddarth
-### Register Number: 24010669
+### Register Number: 212224040316
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
